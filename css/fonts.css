@@ -1,0 +1,27 @@
+@font-face {
+	font-family: "PR";
+	src: url("../fonts/PrxmNv/ProximaNova-Regular.eot");
+	src: url("../fonts/PrxmNv/ProximaNova-Regular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/PrxmNv/ProximaNova-Regular.woff") format("woff"),
+			 url("../fonts/PrxmNv/ProximaNova-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "PB";
+	src: url("../fonts/PrxmNv/ProximaNova-Bold.eot");
+	src: url("../fonts/PrxmNv/ProximaNova-Bold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/PrxmNv/ProximaNova-Bold.woff") format("woff"),
+			 url("../fonts/PrxmNv/ProximaNova-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "RR";
+	src: url("../fonts/Roboto/RobotoRegular.eot");
+	src: url("../fonts/Roboto/RobotoRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Roboto/RobotoRegular.woff") format("woff"),
+			 url("../fonts/Roboto/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
